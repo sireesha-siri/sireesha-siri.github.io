@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.abount-me-section {
+    background-color: #8AAAE5;
+}
+
+.heading-style {
+    color: #466378;
+    font-family: 'Roboto';
+    font-size: 25px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+
+.profile-design{
+    border-radius: 50px;
+    width: 100%;
+}
+
+.skill-section {
+    background-color: #ffffff;
+}
+
+.icon-style {
+    background-color: #8AAAE5;
+    height: 150px;
+    width: 170px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.mini-icon {
+    height: 80px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.mini-heading {
+    color: black;
+    font-family: 'Roboto';
+    font-size: 25px;
+    font-weight: bold;
+}
