@@ -55,7 +55,8 @@ p {
 }
 
 .about-to-home{
-    background-image: radial-gradient(#ffffff,#8AAAE5,#466378);
+    background-image: radial-gradient(#ffffff,#8AAAE5);
     color: black;
     font-family: 'Roboto';
+    font-weight: bold;
 }
