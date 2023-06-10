@@ -53,3 +53,9 @@ p {
     font-size: 25px;
     font-weight: bold;
 }
+
+.about-to-home{
+    background-image: radial-gradient(#ffffff,#8AAAE5,#466378);
+    color: black;
+    font-family: 'Roboto';
+}
