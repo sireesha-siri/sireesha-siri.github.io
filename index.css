@@ -56,3 +56,44 @@
     padding: 2px;
     font-size: 17px;
 }
+.footer-upper-section {
+    background-color: #4b6cc1;
+    height: 100%;
+}
+
+.images-style {
+    height: 100%;
+    width: 100%;
+    border-radius: 60px;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Roboto';
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+p {
+    color: black;
+    font-family: 'Roboto';
+    font-size: 16px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.icon {
+    color: black;
+    font-size: 20px;
+}
+
+.footer-lower-section {
+    background-color: #001c32;
+}
+
+.profile-image {
+    height: 120px;
+    width: 70px;
+    border-radius: 45px;
+}

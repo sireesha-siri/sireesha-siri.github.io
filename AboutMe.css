@@ -7,25 +7,25 @@
 .heading-style {
     color: #466378;
     font-family: 'Roboto';
-    font-size: 25px;
+    font-size: 50px;
 }
 
 h1 {
     color: white;
     font-family: 'Roboto';
-    font-size: 40px;
+    font-size: 100px;
     font-weight: bold;
 }
 
 p {
     color: black;
     font-family: 'Roboto';
-    font-size: 18px;
+    font-size: 25px;
 }
 
 .profile-design{
     border-radius: 50px;
-    width: 100%;
+    height: 75%;
 }
 
 .skill-section {
@@ -41,6 +41,12 @@ p {
     margin-right: 10px;
     padding: 10px;
     text-align: center;
+}
+
+.images-style {
+    height: 100%;
+    width: 100%;
+    border-radius: 60px;
 }
 
 .mini-icon {
