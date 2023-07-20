@@ -90,10 +90,11 @@ p {
 
 .footer-lower-section {
     background-color: #001c32;
+    
 }
 
 .profile-image {
-    height: 120px;
-    width: 70px;
+    height: 90px;
+    width: 90px;
     border-radius: 45px;
 }
