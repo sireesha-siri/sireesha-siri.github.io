@@ -21,7 +21,12 @@ h1 {
 
 .card-background {
     background-color: #ffffff;
-    border-radius: 10px;
+    border-radius: 50px;
+    height: 100%;
+    width: 50%;
+    margin-left: 25%;
+    padding: 30px;
+    margin-top: 5%;
 }
 
 .sub-heading {
@@ -38,9 +43,23 @@ h1 {
 }
 
 a {
-    color: #466378;
+    color: #4b6cc1;
     font-family: 'Roboto';
     font-size: 15px;
     font-weight: bold;
     padding: 3px;
+}
+
+.projects-image-container {
+    background-color: #8AAAE5;
+    height: 200px;
+    width: 240px;
+}
+
+.about-to-home{
+    background-image: radial-gradient(#ffffff,#4b6cc1);
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+   
 }
