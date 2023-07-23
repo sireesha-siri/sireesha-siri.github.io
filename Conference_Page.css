@@ -1,38 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
-.static-web-projects-section{
-    height: 100vh;
-    font-family: 'Lobster';
+
+.down-container {
     text-align: center;
-}
-h1{
-    color: #466378;
-}
-.card-background {
-    background-color: #8AAAE5;
-    border-radius: 10px;
     padding: 20px;
-    margin-bottom: 20px;
+ 
 }
 
-.image-style{
-    height: 100px;
-    width: 100px;
-    border-radius: 50px;
-    margin-top: 30px;
+.heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
 }
 
-p{
-    font-family: 'Bree Serif';
+.description {
+    color: #5a7184;
+    font-size: 15px;
+    width: 400px;
+    font-family: "Roboto";
 }
 
-a{
-    color: black;
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
 }
 
-.about-to-home{
+.paragraph {
+    padding: 1px;
+}
+
+.back-to-static-projects{
     background-image: radial-gradient(#ffffff,#4b6cc1);
     color: black;
     font-family: 'Roboto';
     font-weight: bold;
-   
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+   margin: 30px;
+   border-width: 0px;
 }

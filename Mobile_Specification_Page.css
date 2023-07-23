@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.image-style {
+    height: 50vh;
+    width: 100vh;
+}
+
+.design {
+    border-color: #707070;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.down-container {
+    padding: 15px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #0a1f44;
+    font-weight: bold;
+}
+
+.list-style {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #0a1f44;
+    margin: 15px;
+    padding: 15px;
+    font-weight: 600;
+}
+
+.button-style {
+    margin-left: 130px;
+}
+
+.back-to-static-projects{
+    background-image: radial-gradient(#ffffff,#4b6cc1);
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+   margin: 30px;
+   border-width: 0px;
+}

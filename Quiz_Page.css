@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.back-ground {
+    background-color: #875fc0;
+    padding: 25px;
+
+}
+
+.up-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.main-heading {
+    text-align: right;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.up-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.up-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-family: 8px;
+}
+
+.image-style {
+    margin: 10px;
+    height: 100px;
+    width: 250px;
+}
+
+.down-container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.style {
+    margin-bottom: 30px;
+}
+
+.column-element {
+    list-style-type: upper-alpha;
+    padding: 40px;
+    text-align: center;
+}
+
+.list-style {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 5px;
+    padding: 6px;
+    list-style-type: none;
+    margin: 8px;
+    margin-right: 50px;
+    width: 250px;
+    text-align: center;
+}
+
+.text-color {
+    background-color: #875fc0;
+}
+
+.button {
+    background-color: #fbaf00;
+    color: #ffffff;
+    border-radius: 8px;
+    margin: 20px;
+    width: 125px;
+    border-width: 0px;
+    height: 30px;
+}
+
+.back-to-static-projects{
+    background-image: radial-gradient(#ffffff,#4b6cc1);
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+   margin: 30px;
+   border-width: 0px;
+   border-radius: 10px;
+}

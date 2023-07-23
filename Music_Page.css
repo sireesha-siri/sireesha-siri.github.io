@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-style {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    text-align: center;
+    padding: 10px;
+    height: 100vh;
+}
+
+.back-ground {
+    background-color: #03174c;
+}
+
+.main-heading {
+    font-size: 25px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    margin-top: 140px;
+    padding: 15px;
+}
+
+.main-description {
+    font-size: 17px;
+    padding: 5px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+}
+
+.card-design {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 210px;
+    background-size: cover;
+    width: 350px;
+    margin: 25px;
+    padding: 5px;
+    text-align: center;
+}
+
+.sub-heading {
+    font-size: 30px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    padding: 75px;
+}
+
+.sub-description {
+    font-size: 18px;
+    padding: 5px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    margin: 7px;
+    text-align: center;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    border-radius: 15px;
+    border-width: 0px;
+    height: 30px;
+    width: 100px;
+    margin-left: 140px;
+    margin-bottom: 100px;
+}
+
+.image-style {
+    height: 55vh;
+    width: 100vw;
+}
+
+.heading {
+    font-size: 30px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    padding: 15px;
+}
+
+.description {
+    font-size: 18px;
+    padding: 5px;
+    font-family: "Bree Serif";
+    color: #98a1bd;
+    margin: 7px;
+}
+
+.head-ing {
+    font-size: 18px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    padding: 15px;
+    margin: 10px;
+}
+
+.image {
+    height: 100px;
+    width: 150px;
+    padding: 5px;
+}
+
+.button-two {
+    background-color: #8e97fd;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    border-radius: 15px;
+    border-width: 0px;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.back-to-static-projects{
+    background-image: radial-gradient(#ffffff,#4b6cc1);
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    height: 50px;
+    width: 100px;
+    padding: 5px;
+   margin: 30px;
+   border-width: 0px;
+   border-radius: 10px;
+}
