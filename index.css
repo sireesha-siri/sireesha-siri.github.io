@@ -117,6 +117,7 @@ h1:hover span {
   display: inline-block;
   font-size: 50px;
   font-weight: bold;
+  font-family: 'Roboto';
 }
 
 @keyframes textclip {
@@ -126,7 +127,14 @@ h1:hover span {
 }
 .about-background{
   background-image: linear-gradient(#effdf2,#d0fbd8);
-  height: 145vh;
+  height: 75%;
+  column-fill: balance;
+}
+.about-sub-background{
+  
+  font-family: 'Bree Serif';
+  font-size: 20px;
+
 }
 .about-image{
   border-radius: 25px;
