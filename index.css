@@ -153,14 +153,41 @@ h1:hover span {
 
                                                 /* Education Page */
 .education-background{
-  background-image: linear-gradient(#ffffff,#e5e5e5);
+  background-image: radial-gradient(#f2f2f2,#ffffff);
   padding: 50px;
+}
+.education_card{
+  background-color: #dffcef;
+  padding: 20px;
+  border-radius: 20px;
 }
 .education-icon{
   height: 80px;
   width: 80px;
   border-radius: 40px;
-  padding: 10px;
-  
+  padding: 10px; 
+}
+.education-title{
+  font-size: 17px;
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin: 10px;
+}
+.education-mini-container{
+  border-left: 5px #133019 solid;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  margin-left: 20px;
+  background-color: #effdf2;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+li{
+  list-style: none;
+  color: black;
+  font-size: 15px;
+  font-family: 'Bree Serif';
+  font-weight: normal;
 }
 
