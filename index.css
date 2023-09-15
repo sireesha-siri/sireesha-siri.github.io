@@ -101,9 +101,9 @@ h1:hover span {
   background-image: linear-gradient(
     -225deg,
     #ffffff 0%,
-    #effdf2 29%,
-    #82f497 67%,
-    #63f27d 100%
+    #82f497 29%,
+    #63f27d 67%,
+    #000000 100%
   );
   background-size: auto auto;
   background-clip: border-box;
